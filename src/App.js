@@ -5,7 +5,7 @@ const CostComparisonChart = () => {
   const data = [
     { name: 'Insperity', value: 600000 },
     { name: 'ADP', value: 240000 },
-    { name: 'Proposed Solution', value: 9994 },
+    { name: 'Proposed Solution', value: 105495 },
   ];
 
   return (
